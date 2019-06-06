@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'III18N_Example' do
+  pod 'III18N', :path => '../'
+
+  target 'III18N_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
