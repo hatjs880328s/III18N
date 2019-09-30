@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'III18N'
-  s.version          = '0.8.0'
+  s.version          = '0.8.1'
   s.summary          = 'Inspur Inter.Progress APP II18N'
 
 # This description is used to generate tags and improve search results.
